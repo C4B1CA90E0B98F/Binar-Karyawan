@@ -1,0 +1,51 @@
+2024-04-29 03:38:46,096 INFO o.s.b.StartupInfoLogger [main] Starting KaryawanApplication using Java 21.0.2 with PID 5900 (E:\Java\Spring\karyawan\target\classes started by izo in e:\Java\Spring\karyawan)
+2024-04-29 03:38:46,100 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-29 03:38:46,879 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-04-29 03:38:46,964 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 76 ms. Found 5 JPA repository interfaces.
+2024-04-29 03:38:47,683 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2024-04-29 03:38:47,697 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-29 03:38:47,700 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2024-04-29 03:38:47,701 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29 03:38:47,783 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2024-04-29 03:38:47,785 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1625 ms
+2024-04-29 03:38:47,982 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-04-29 03:38:48,089 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-04-29 03:38:48,138 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-04-29 03:38:48,563 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-04-29 03:38:48,597 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-04-29 03:38:48,876 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@d9f5fce
+2024-04-29 03:38:48,879 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-04-29 03:38:48,937 WARN o.h.e.j.d.i.DialectFactoryImpl [main] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-04-29 03:38:50,173 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-04-29 03:38:50,367 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-04-29 03:38:50,667 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-04-29 03:38:51,053 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2024-04-29 03:38:51,091 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path ''
+2024-04-29 03:38:51,102 INFO o.s.b.StartupInfoLogger [main] Started KaryawanApplication in 5.69 seconds (process running for 6.16)
+2024-04-29 03:39:12,125 INFO o.s.b.StartupInfoLogger [main] Starting KaryawanApplication using Java 21.0.2 with PID 11316 (E:\Java\Spring\karyawan\target\classes started by izo in e:\Java\Spring\karyawan)
+2024-04-29 03:39:12,127 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-29 03:39:13,218 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-04-29 03:39:13,308 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 77 ms. Found 5 JPA repository interfaces.
+2024-04-29 03:39:14,233 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2024-04-29 03:39:14,287 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-29 03:39:14,294 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2024-04-29 03:39:14,295 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29 03:39:14,467 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2024-04-29 03:39:14,470 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2286 ms
+2024-04-29 03:39:14,750 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-04-29 03:39:14,903 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-04-29 03:39:14,956 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-04-29 03:39:15,377 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-04-29 03:39:15,440 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-04-29 03:39:15,756 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1753475d
+2024-04-29 03:39:15,759 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-04-29 03:39:15,831 WARN o.h.e.j.d.i.DialectFactoryImpl [main] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-04-29 03:39:17,292 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-04-29 03:39:17,504 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-04-29 03:39:18,024 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-04-29 03:39:18,461 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2024-04-29 03:39:18,491 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path ''
+2024-04-29 03:39:18,504 INFO o.s.b.StartupInfoLogger [main] Started KaryawanApplication in 7.147 seconds (process running for 7.731)
+2024-04-29 03:39:23,341 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29 03:39:23,342 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-04-29 03:39:23,344 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
